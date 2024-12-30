@@ -1,4 +1,4 @@
-# CIBMTR---EQUITY-IN-POST---HEMATOPOIETIC-CELL-TRANSPLANTATION-HCT-SURVIVAL-PREDICTIONS
+# CIBMTR EQUITY-IN-POST-HEMATOPOIETIC-CELL-TRANSPLANTATION-HCT-SURVIVAL-PREDICTIONS
 ## Overview
 To develop models to improve prediction of transplant survival rates equitably for allogeneic HCT patients, that every patient has a fair chance at a successful outcome, regardless of their background.
 
